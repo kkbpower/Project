@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/dev/muc/MUC/httpclient-4.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/dev/muc/MUC/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev/muc/MUC/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/dev/muc/MUC/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev/muc/MUC/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
